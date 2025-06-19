@@ -1,5 +1,6 @@
 # BioKinetica
-## README for Experiment Report on Microbial Growth, Bioflocculant Production, and Substrate Consumption
+### README for Experiment Report on Microbial Growth, Bioflocculant Production, and Substrate Consumption
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Xanderflux/BioKinetica/blob/main/index.ipynb)
 
 ## Overview
 This project analyzes microbial growth, bioflocculant production, and substrate consumption using Python for data processing and visualization. The analysis incorporates key models such as:
